@@ -1,0 +1,16 @@
+.section-title_theme_dark {
+  width: 60%;
+  display: flex;
+  margin-top: 69px;
+  margin-bottom: 0px;
+  position: relative;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bolder;
+  align-items: center;
+  justify-content: center;
+  color: honeydew;
+  }
+  .table__cell_theme_dark:nth-of-type(5n) {
+    padding-right: 10px;
+  }

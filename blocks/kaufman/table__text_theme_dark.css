@@ -1,0 +1,12 @@
+.table__text_theme_dark {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  line-height: 1.2;
+  font-size: 18px;
+  line-height: 23px;
+  font-weight: normal;
+  align-items: baseline;
+  margin-top: 0;
+  color:  #f2f2f2;
+  }

@@ -1,0 +1,9 @@
+.footer__column_content_info {
+  display: flex;
+line-height: 18px;
+font-size: 18px;
+font-weight: bold;
+display: flex;
+flex-direction: column;
+margin-top: 0px;
+}

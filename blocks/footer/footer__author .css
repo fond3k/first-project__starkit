@@ -1,0 +1,9 @@
+.footer__author {
+  display: flex;
+  position: relative;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  padding-top: 80px;
+  padding-bottom: 18px;
+}
