@@ -1,0 +1,10 @@
+.section-subtitle__video {
+  width: 60%;
+  display: flex;
+  margin-top: 16px;
+  margin-bottom: 50px;
+  justify-content: center;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
