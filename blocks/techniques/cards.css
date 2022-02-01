@@ -1,6 +1,7 @@
 .cards {
   display: flex;
-  flex-wrap: wrap;
   position: relative;
-  align-items: baseline;
+ align-items: baseline;
+  flex-wrap: wrap;
+  margin: 0 auto;
 }
