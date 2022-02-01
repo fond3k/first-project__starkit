@@ -19,7 +19,10 @@
     display: flex;
   }
   /* выше установили ограничения для секции */
-
+  .header__square-pic_rotation {
+    animation: rotation 20s ease-in-out infinite;
+    transform: rotate(360deg);
+  }
 
   
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
