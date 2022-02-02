@@ -1,4 +1,5 @@
 .header__title {
+  display: flex;
   position: absolute;
 width: 730px;
 top: 170px;

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "first-project__starkit",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502
+	}
+}
