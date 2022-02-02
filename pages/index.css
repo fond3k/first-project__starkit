@@ -32,6 +32,12 @@
 @import url(../blocks/oakley/two-columns.css);
 @import url(../blocks/oakley/two-columns__brief.css);
 @import url(../blocks/oakley/two-columns__paragraph.css);
+@import url(../blocks/feynman/feynman.css);
+@import url(../blocks/feynman/feynman__title.css);
+@import url(../blocks/feynman/feynman__subtitle.css);
+@import url(../blocks/feynman/feynman__link.css);
+@import url(../blocks/feynman/feynman__background.css);
+
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/digits/table.css);
 @import url(../blocks/digits/section-title__table.css);

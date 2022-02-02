@@ -7,4 +7,5 @@
   justify-content: space-between;
   align-items: baseline;
   z-index: 1;
+  border-bottom: 1px solid green;
 }
