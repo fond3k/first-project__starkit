@@ -9,7 +9,7 @@
 @import url(../blocks/header/header__main-illustration.css);
 @import url(../blocks/header/header__rotation.css);
 @import url(../blocks/header/header__square-pic.css);
-@import url(../blocks/discription/discription.css);
+@import url(../blocks/discription/description.css);
 @import url(../blocks/discription/two-columns.css);
 @import url(../blocks/discription/two-columns__brief.css);
 @import url(../blocks/discription/two-columns__main-text.css);
@@ -28,8 +28,10 @@
 @import url(../blocks/video/section-subtitle__video.css);
 @import url(../blocks/video/video__iframes.css);
 @import url(../blocks/video/video__iframe.css);
-
-
+@import url(../blocks/oakley/oakley.css);
+@import url(../blocks/oakley/two-columns.css);
+@import url(../blocks/oakley/two-columns__brief.css);
+@import url(../blocks/oakley/two-columns__paragraph.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/digits/table.css);
 @import url(../blocks/digits/section-title__table.css);
@@ -37,11 +39,6 @@
 @import url(../blocks/digits/table__cell.css);
 @import url(../blocks/digits/table__heading.css);
 @import url(../blocks/digits/table__text.css);
-
-
-
-
-
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/table_theme_dark\ .css);
 @import url(../blocks/kaufman/section-title_theme_dark.css);
