@@ -1,5 +1,6 @@
 .feynman {
   display: flex;
+  position: relative;
   height: 890px;
   width: 100%;
   justify-content: center;
@@ -8,5 +9,6 @@
   background-image: url(/images/feinman.png);
   background-repeat: no-repeat;
   background-position: left bottom;
+  background-color: #f2f2f2;
   overflow: hidden;
 }
