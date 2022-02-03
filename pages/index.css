@@ -32,7 +32,6 @@
 @import url(../blocks/oakley/two-columns.css);
 @import url(../blocks/oakley/two-columns__brief.css);
 @import url(../blocks/oakley/two-columns__paragraph.css);
-
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/feynman__title.css);
 @import url(../blocks/feynman/feynman__subtitle.css);
@@ -40,11 +39,13 @@
 
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/digits/table.css);
-@import url(../blocks/digits/section-title__table.css);
-@import url(../blocks/digits/section-subtitle__table.css);
+@import url(../blocks/digits/section-title.css);
+@import url(../blocks/digits/section-subtitle.css);
+@import url(../blocks/digits/table.css);
 @import url(../blocks/digits/table__cell.css);
 @import url(../blocks/digits/table__heading.css);
 @import url(../blocks/digits/table__text.css);
+
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/table_theme_dark\ .css);
 @import url(../blocks/kaufman/section-title_theme_dark.css);
